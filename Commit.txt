@@ -1,0 +1,19 @@
+All Framework :
+    pandas
+    tkinter
+    openpyxl
+    pil or pillow
+    pytesseract
+    cv2
+
+Install Framework :
+    pip install pandas
+    pip install tkinter
+    pip install openpyxl
+    pip install pytersseract
+    pip install pil or pillow
+    pip install cv2
+
+python main.py
+
+
